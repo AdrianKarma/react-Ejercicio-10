@@ -12,3 +12,21 @@ textarea { resize: none; }
  width: 50%;  
 }
 
+.FormCuadro{
+    max-width: 90%;
+}
+.FormCuadro2{
+    max-width: 90%;
+}
+
+.CardCita{
+    width: 350px;
+    margin-left: 5px;
+    margin-right: 5px
+    ;
+}
+
+.Master{display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
