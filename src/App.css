@@ -1,0 +1,14 @@
+textarea { resize: none; }
+
+.descripcionPelicula{
+    width: 80%;  
+}
+
+.generoPelicula{
+    width: 50%;  
+}
+
+.nombrePelicula{
+ width: 50%;  
+}
+
