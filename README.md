@@ -1,8 +1,27 @@
-# React + Vite
+# Ejercicio 10 de React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##
+ Alta de Películas - Dificultad:  🟢🟡
+Crear una aplicación web con react que contenga un formulario con los siguientes campos:
+- nombre (en un campo de texto)
+- descripción (en un textarea)
+- género (en un select donde podemos seleccionar comedia, drama o infantil)
 
-Currently, two official plugins are available:
+Cuando presione enviar, guardar esta película en el localstorage y mostrar en una card.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##
+
+
+>[!NOTE]
+Modo de uso
+Lineas para clonar y correr el proyecto:
+
+- `git clone`
+- `npm install`
+- `npm start`
+
+##
+ >[!IMPORTANT]
+Link Netlify:
+https://react-tp-10-adrian-chanampa.netlify.app/
+
